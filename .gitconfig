@@ -1,0 +1,6 @@
+[alias]
+    co = checkout
+    st = status
+    br = branch
+    lg = log --graph --all --decorate --abbrev-commit --branches --date=short
+    cm = commit -m
